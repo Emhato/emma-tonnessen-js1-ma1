@@ -1,0 +1,19 @@
+.text {
+    opacity: 100%;
+    transition: opacity 2s;
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.ontop {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;    
+}
+
+/* .text1 {
+    grid-area: 1;
+}
+
+.text2 {
+    grid-area: 1;
+} */

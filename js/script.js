@@ -89,3 +89,16 @@ const catsHtml = createCats(cats);
 const catContainer = document.querySelector(".cat-container");
 
 catContainer.innerHTML = catsHtml;
+
+
+// Oppacity transition
+
+// const tex1 = document.querySelector(".text1")
+// const text2 = document.querySelector(".text2")
+// const displayButton = document.querySelector(".display")
+
+// function displayButtonFunction() {
+//     text2.style.opacity = "100%";
+// }
+
+// displayButton.addEventListener("click", displayButtonFunction);
